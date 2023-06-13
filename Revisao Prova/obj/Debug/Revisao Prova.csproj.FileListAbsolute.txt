@@ -1,0 +1,12 @@
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Revisao Prova\Revisao Prova\obj\Debug\Revisao Prova.csproj.AssemblyReference.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Revisao Prova\Revisao Prova\obj\Debug\Revisao Prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Revisao Prova\Revisao Prova\obj\Debug\Revisao_Prova.Menu.resources
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Revisao Prova\Revisao Prova\obj\Debug\Revisao_Prova.Properties.Resources.resources
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Revisao Prova\Revisao Prova\obj\Debug\Revisao Prova.csproj.GenerateResource.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Revisao Prova\Revisao Prova\obj\Debug\Revisao Prova.csproj.CoreCompileInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Revisao Prova\Revisao Prova\bin\Debug\Revisao Prova.exe.config
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Revisao Prova\Revisao Prova\bin\Debug\Revisao Prova.exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Revisao Prova\Revisao Prova\bin\Debug\Revisao Prova.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Revisao Prova\Revisao Prova\obj\Debug\Revisao Prova.exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Revisao Prova\Revisao Prova\obj\Debug\Revisao Prova.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Revisao Prova\Revisao Prova\obj\Debug\Revisao_Prova.Divisao.resources
